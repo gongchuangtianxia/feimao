@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🐼┃豆瓣┃微信公众号：肥猫宝贝",
+      "name": "🐼┃豆瓣┃共创天下",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -507,7 +507,7 @@
     },
     {
       "key": "push_agent",
-      "name": "关注公众号：肥猫宝贝",
+      "name": "共创天下",
       "type": 3,
       "api": "csp_PushAgent",
       "playerType": "1",
@@ -527,7 +527,7 @@
       "url": "Web"
     },
     {
-      "name": "公众号：肥猫宝贝",
+      "name": "共创天下",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
@@ -562,7 +562,7 @@
       }
     },
     {
-      "name": "肥猫最可爱",
+      "name": "共创天下",
       "type": 1,
       "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
       "ext": {
